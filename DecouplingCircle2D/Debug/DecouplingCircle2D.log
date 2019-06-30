@@ -1,5 +1,0 @@
-﻿  main.cpp
-d:\profiles\njp2424\desktop\physics\level8\decouplingcircle2d\decouplingcircle2d\main.cpp(427): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-d:\profiles\njp2424\desktop\physics\level8\decouplingcircle2d\decouplingcircle2d\main.cpp(461): warning C4326: return type of 'main' should be 'int' instead of 'void'
-d:\profiles\njp2424\desktop\physics\level8\decouplingcircle2d\decouplingcircle2d\main.cpp(477): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  DecouplingCircle2D.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level8\DecouplingCircle2D\DecouplingCircle2D\Debug\DecouplingCircle2D.exe
